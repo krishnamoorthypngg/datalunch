@@ -7,9 +7,9 @@ namespace helloworld
         static void Main(string[] args)
         {
             Message[] msg = new Message[4];
-            msg[0] = new Message("HELP!!!");
-            msg[1] = new Message("Mayday,mayday");
-            msg[2] = new Message("we have casualties");
+            msg[0] = new Message("First Project");
+            msg[1] = new Message("in github");
+            msg[2] = new Message("i have made changes");
             msg[3] = new Message("I am on my way");
 
             
