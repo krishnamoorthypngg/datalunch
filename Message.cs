@@ -15,6 +15,7 @@ namespace helloworld
         public void Print()
         {
             Console.WriteLine(text);
+            Console.WriteLine("HEllo World");
         }
     }
 }
